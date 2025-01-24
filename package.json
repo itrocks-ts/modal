@@ -1,0 +1,46 @@
+{
+	"author": {
+		"name": "Baptiste Pillot",
+		"email": "baptiste@pillot.fr"
+	},
+	"description": "Respectful modal: avoids <div>, respects white-space: pre* styles line breaks",
+	"devDependencies": {
+		"@types/node": "^22.9",
+		"typescript": "5.6"
+	},
+	"files": [
+		"LICENSE",
+		"README.md",
+		"*.d.ts",
+		"*.js"
+	],
+	"homepage": "https://it.rocks",
+	"keywords": [
+		"carriage return",
+		"modal",
+		"fix",
+		"fixed",
+		"front-end",
+		"it.rocks",
+		"line feed",
+		"line break",
+		"pre",
+		"raw",
+		"style",
+		"text",
+		"white-space"
+	],
+	"license": "ISC",
+	"module": "./modal.js",
+	"name": "@itrocks/modal",
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/itrocks-ts/modal.git"
+	},
+	"scripts": {
+		"build": "tsc"
+	},
+	"type": "module",
+	"types": "./modal.d.ts",
+	"version": "0.0.1"
+}
