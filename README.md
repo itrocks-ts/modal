@@ -6,4 +6,4 @@
 
 # modal
 
-Automatically closes #modal elements when a form is submitted or a link is clicked.
+Lightweight modal with default styling and auto-close on form submit or link click.

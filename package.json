@@ -3,7 +3,7 @@
 		"name": "Baptiste Pillot",
 		"email": "baptiste@pillot.fr"
 	},
-	"description": "Automatically closes #modal elements when a form is submitted or a link is clicked",
+	"description": "Lightweight modal with default styling and auto-close on form submit or link click",
 	"devDependencies": {
 		"@types/node": "^22.9",
 		"sass": "^1.80",
@@ -18,8 +18,21 @@
 	],
 	"homepage": "https://it.rocks",
 	"keywords": [
+		"auto",
+		"auto-close",
+		"automatically",
+		"close",
+		"css",
+		"design",
+		"dialog",
 		"front-end",
-		"it.rocks"
+		"it.rocks",
+		"modal",
+		"popup",
+		"responsive",
+		"stylesheet",
+		"UI",
+		"UX"
 	],
 	"license": "ISC",
 	"module": "./modal.js",
@@ -33,5 +46,5 @@
 	},
 	"type": "module",
 	"types": "./modal.d.ts",
-	"version": "0.0.5"
+	"version": "0.0.6"
 }
