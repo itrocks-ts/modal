@@ -1,5 +1,5 @@
 
-export default function modalForm(form: HTMLFormElement)
+export function modalForm(form: HTMLFormElement)
 {
 	const modal = form.closest('#modal')
 	if (!modal) return

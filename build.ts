@@ -1,3 +1,3 @@
-import build from '../build/build.js'
+import { build } from '../build/build.js'
 
-build<HTMLFormElement>('#modal form', async form => (await import('./modal.js')).default(form))
+build<HTMLFormElement>('#modal form', async form => (await import('./modal.js')).modalForm(form))
