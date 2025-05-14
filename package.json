@@ -7,7 +7,7 @@
 	"devDependencies": {
 		"@types/node": "^22.9",
 		"sass": "^1.80",
-		"typescript": "5.6"
+		"typescript": "~5.8"
 	},
 	"files": [
 		"LICENSE",
@@ -49,5 +49,5 @@
 	},
 	"type": "module",
 	"types": "./modal.d.ts",
-	"version": "0.0.9"
+	"version": "0.0.10"
 }
