@@ -5,9 +5,9 @@
 	},
 	"description": "Lightweight modal with default styling and auto-close on form submit or link click",
 	"devDependencies": {
-		"@types/node": "^22.9",
-		"sass": "^1.80",
-		"typescript": "~5.8"
+		"@types/node": "^24.10",
+		"sass": "^1.95",
+		"typescript": "~5.9"
 	},
 	"files": [
 		"LICENSE",
@@ -49,5 +49,5 @@
 	},
 	"type": "module",
 	"types": "./modal.d.ts",
-	"version": "0.0.10"
+	"version": "0.0.11"
 }
