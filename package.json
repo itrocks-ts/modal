@@ -22,12 +22,17 @@
 		"auto-close",
 		"automatically",
 		"close",
+		"confirm",
+		"confirmation",
+		"confirmation-dialog",
 		"css",
 		"design",
 		"dialog",
-		"front-end",
+		"frontend",
 		"it.rocks",
+		"lightweight",
 		"modal",
+		"overlay",
 		"popup",
 		"responsive",
 		"stylesheet",
@@ -49,5 +54,5 @@
 	},
 	"type": "module",
 	"types": "./modal.d.ts",
-	"version": "0.0.11"
+	"version": "0.0.12"
 }
