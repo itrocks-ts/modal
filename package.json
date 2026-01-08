@@ -53,6 +53,6 @@
 		"build": "tsc && sass --no-source-map modal.scss:modal.css"
 	},
 	"type": "module",
-	"types": "./modal.d.ts",
-	"version": "0.0.12"
+"types": "./modal.d.ts",
+	"version": "0.1.0"
 }
