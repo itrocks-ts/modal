@@ -5,9 +5,8 @@
 	},
 	"description": "Lightweight modal with default styling and auto-close on form submit or link click",
 	"devDependencies": {
-		"@types/node": "^24.10",
 		"sass": "^1.95",
-		"typescript": "~5.9"
+		"typescript": "^6.0"
 	},
 	"files": [
 		"LICENSE",
@@ -40,7 +39,6 @@
 		"UX"
 	],
 	"license": "ISC",
-	"module": "./modal.js",
 	"name": "@itrocks/modal",
 	"optionalDependencies": {
 		"@itrocks/build": "latest"
@@ -52,7 +50,5 @@
 	"scripts": {
 		"build": "tsc && sass --no-source-map modal.scss:modal.css"
 	},
-	"type": "module",
-	"types": "./modal.d.ts",
-	"version": "0.1.1"
+	"version": "0.1.2"
 }
