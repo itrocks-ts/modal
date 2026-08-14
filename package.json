@@ -6,7 +6,7 @@
 	"description": "Lightweight modal with default styling and auto-close on form submit or link click",
 	"devDependencies": {
 		"sass": "^1.95",
-		"typescript": "^6.0"
+		"typescript": "^7.0"
 	},
 	"files": [
 		"LICENSE",
@@ -50,5 +50,5 @@
 	"scripts": {
 		"build": "tsc && sass --no-source-map modal.scss:modal.css"
 	},
-	"version": "0.1.2"
+	"version": "0.1.3"
 }
